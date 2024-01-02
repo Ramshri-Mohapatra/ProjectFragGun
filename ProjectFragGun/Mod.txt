@@ -1,0 +1,4 @@
+default 0 0 default
+Drillbit 100 10 DrillBullet
+LeMat -50 -10 default
+Stagger 50 10 StaggerBullet
